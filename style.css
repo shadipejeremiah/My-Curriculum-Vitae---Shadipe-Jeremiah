@@ -1,0 +1,103 @@
+*,
+body {
+    max-width: 1200px;
+    margin: auto;
+    font-family: ;
+}
+
+hr {
+    width: 20%;
+    margin-left: 0;
+    border: 5px solid #d7a65d;
+    margin-bottom: 130px;
+
+}
+
+#CV {
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+
+h3 {
+    font-size: 30px;
+    background-color: #d7a65d;
+    padding: 10px;
+    color: white;
+    text-transform: uppercase;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+h4 {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+p,
+span {
+    color: rgb(88, 88, 88) !important;
+    line-height: 30px;
+}
+
+#cv-info {
+    width: 30%;
+
+    background-color: aliceblue;
+    padding: 80px 40px 80px 40px;
+}
+
+.info-image img {
+    border: 10px solid #d7a65d;
+    border-radius: 1000px;
+}
+
+i.fa {
+    padding: 10px;
+    margin-right: 20px;
+    border: 0px;
+    border-radius: 100px;
+    color: ;
+}
+
+.contact-details span a {
+    text-decoration: none !important;
+    color: #585858;
+}
+
+
+#CV h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+
+}
+
+#cv-datails {
+    margin-top: 0px;
+}
+
+.details p {
+    padding-bottom: 20px;
+}
+
+.experience-2 {
+    padding-top: 20px;
+}
+
+#cv-details {
+    width: 70%;
+    height: 100vh;
+    padding: 80px 40px 80px 40px;
+}
+
+ul li {
+    color: #585858;
+    padding-bottom: 12px;
+}
