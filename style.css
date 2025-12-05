@@ -101,3 +101,19 @@ ul li {
     color: #585858;
     padding-bottom: 12px;
 }
+
+@media screen and (max-width:500px) {
+    #CV {
+        display: flex;
+        flex-direction: column;
+    }
+
+    #cv-info {
+        width: 80%;
+    }
+
+    #cv-details {
+        width: 80%;
+    }
+
+}
